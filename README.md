@@ -1,5 +1,5 @@
 # sql
-
+## 内如主要时vue.config.js的配置，如何mock数据和连接数据库
 ## Project setup
 ```
 npm install
